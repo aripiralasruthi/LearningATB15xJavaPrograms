@@ -8,8 +8,8 @@ public class Lab006_MultiLineComments {
         for multi line
         commenting
          */
-        System.out.println("// this is the symbol for commenting a line");
-        System.out.println(" /* \n" +
+        System.out.println("\n // this is the symbol for commenting a line");
+        System.out.println("\n /* \n" +
                 "     this is\n" +
                 "     for multi line\n" +
                 "     commenting\n" +
