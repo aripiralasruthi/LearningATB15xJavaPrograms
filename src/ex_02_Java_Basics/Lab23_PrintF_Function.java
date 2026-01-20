@@ -1,6 +1,6 @@
-package ex_01_Java_Basics;
+package ex_02_Java_Basics;
 
-public class Practice_Printf_Function{
+public class Lab23_PrintF_Function {
     public static void main(String[] args){
         int i=9;
         System.out.println(""); 
