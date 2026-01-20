@@ -1,9 +1,9 @@
-package Exercise_20thDec2025;
+package ex_01_Java_Basics;
 
 public class Practice_Printf_Function{
     public static void main(String[] args){
         int i=9;
-        System.out.println("");
+        System.out.println(""); 
         System.out.printf("%d * 1 = %d%n", i, i*1);
         System.out.printf("%d * 2 = %d%n", i, i*2);
         System.out.printf("%d * 3 = %d%n", i, i*3);
