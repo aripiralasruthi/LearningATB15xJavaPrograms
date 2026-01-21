@@ -1,4 +1,4 @@
-package ex_02_Java_Basics;
+package ex_02_VariablesAndDatatypes;
 
 public class Lab23_PrintF_Function {
     public static void main(String[] args){

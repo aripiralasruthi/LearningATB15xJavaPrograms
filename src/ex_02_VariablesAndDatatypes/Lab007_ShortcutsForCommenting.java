@@ -1,4 +1,4 @@
-package ex_02_Java_Basics;
+package ex_02_VariablesAndDatatypes;
 
 public class Lab007_ShortcutsForCommenting {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ex_02_Java_Basics;
+package ex_02_VariablesAndDatatypes;
 
 public class Lab022_DataTypes {
     public static void main(String[] args) {
@@ -19,7 +19,9 @@ public class Lab022_DataTypes {
         double d = 87390.897348937;
         double d1 = 87896.78578678;
 
-        System.out.println(b+"\n"+s+"\n"+i+"\n"+c+"\n"+c1+"\n"+c2+"\n"+l+"\n"+l1+"\n"+f+"\n"+F+"\n"+d+"\n"+d1);
+        boolean b1 = true;
+
+        System.out.println(b+"\n"+s+"\n"+i+"\n"+c+"\n"+c1+"\n"+c2+"\n"+l+"\n"+l1+"\n"+f+"\n"+F+"\n"+d+"\n"+d1+"\n"+b1);
 
     }
 }
