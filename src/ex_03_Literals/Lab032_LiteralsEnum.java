@@ -1,6 +1,6 @@
 package ex_03_Literals;
 
-public class Lab032_LiteralEnum {
+public class Lab032_LiteralsEnum {
     public static void main(String[] args) {
         int Enum = 100;
         // 'Enum' can be a variable name with 'E' as capital letter
