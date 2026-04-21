@@ -7,7 +7,8 @@ public class Lab038_Operators_Unary {
         System.out.println(a+b);
 
         int c = -1;
-        c = c-1;
-        System.out.println(c);
+        int c1 = c-1;
+        System.out.println(c1);
+
     }
 }
